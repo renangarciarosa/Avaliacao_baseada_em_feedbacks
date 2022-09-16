@@ -25,7 +25,7 @@ Depois que um cliente compra o produto da Olist Store, um vendedor é notificado
 * Cada item pode ser atendido por um vendedor distinto.
 * Todo o texto identificando lojas e parceiros foi substituído pelos nomes das grandes casas de Game of Thrones.
 
-
+## Objetivo
 Aplicação de modelos de machine learning para predizer a avaliação dos produtos baseados no histórico de feedbacks dos clientes que já realizaram compras.
 
 * LSTM - Rede Neural
